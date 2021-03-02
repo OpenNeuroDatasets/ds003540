@@ -1,6 +1,6 @@
 Introduction
 ------------
-This dataset was collected to examine the impacts of multiband acceleration on resting-state fMRI. We collected factors of 2, 3, 4, 6, 8, 9, and 12  with 2-mm isotropic resolution, and additionally 2 mm and 3.3 mm single-band acquisitions, from thirty-two subjects.
+The Emory Multiband Dataset was collected to examine the impacts of multiband acceleration on resting-state fMRI. We collected factors of 2, 3, 4, 6, 8, 9, and 12  with 2-mm isotropic resolution, and additionally 2 mm and 3.3 mm single-band acquisitions, from thirty-two subjects.
 
 
 Acquisition Protocols
