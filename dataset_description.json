@@ -23,5 +23,6 @@
     "ReferencesAndLinks": [
         "https://github.com/thebrisklab"
     ],
-    "DatasetDOI": "10.18112/openneuro.ds003540.v1.0.0"
+    "DatasetDOI": "10.18112/openneuro.ds003540.v1.0.0",
+    "HowToAcknowledge": "Please reference B. Risk, R. Murden, J. Wu, M. Nebel, A. Venkataraman, Z. Zhang, and D. Qiu. \"Which multiband factor should you choose for your resting-state fMRI study?\" NeuroImage, in press.\n\nhttps://www.sciencedirect.com/science/article/pii/S1053811921002421 "
 }
